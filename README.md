@@ -3,10 +3,10 @@
 REST API Example build with:
 
 -PostgresSql (PgAdmin3)</br>
--Spring Boot
--Java Persistance Api (JPA)
--Spring Data
--Spring web (Rest Controllers)
--Spring HATEOAS (REST PRINCIPLES)
+-Spring Boot</br>
+-Java Persistance Api (JPA)</br>
+-Spring Data</br>
+-Spring web (Rest Controllers)</br>
+-Spring HATEOAS (REST PRINCIPLES)</br>
 
 
