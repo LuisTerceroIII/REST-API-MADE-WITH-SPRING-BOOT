@@ -2,7 +2,7 @@
 
 REST API Example build with:
 
--PostgresSql (PgAdmin3)</br>
+-PostgresSql</br>
 -Spring Boot</br>
 -Java Persistance Api (JPA)</br>
 -Spring Data</br>
