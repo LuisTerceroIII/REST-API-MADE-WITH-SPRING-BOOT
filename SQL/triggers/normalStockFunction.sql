@@ -15,7 +15,7 @@ begin
 	raise notice 'Product %', product;
 
 	IF product is NULL THEN
-	    raise exception 'El producto involucrado no exite';
+	    raise exception 'El producto involucrado no existe';
 	 END IF;
 
     select product.quantity into productQuantity from product
